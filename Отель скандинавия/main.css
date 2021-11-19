@@ -1,0 +1,70 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Tahoma, serif;
+}
+
+
+header, footer {
+    background: #424242;
+    padding: 45px ;
+}
+h1 {
+    text-align: center;
+    color: #fff;
+    font-size: 60px;
+}
+div{ 
+    border-size: 300px;
+    width: 1400px;
+    marigin: 0 auto;
+    overflow: hidden;
+}
+aside, main {
+    width: 60%;
+    float: left;
+}
+aside img{
+    display: block;
+    width: 80%;
+    marigin: 0 auto;
+}
+footer p {
+    color: #fff;
+    text-align: center;
+    font-size: 17px;
+}
+
+.nav_item {
+    margin-right: 20px;
+    color:  #FFDEAD;
+    text-decoration: none;
+}
+
+.fide {
+
+    background: #A9A9A9;
+    height: 30px;
+    width: 1519px;
+}
+
+h2{ 
+    width: 600px;
+margin-top:-388px;
+margin-right:800px;
+margin-bottom:170px;
+margin-left:800px;
+font-size: 15px
+}
+
+h3 {
+    background: #fff;
+    font-style: Tahoma;
+    margin-top:-60px;
+margin-right:25px;
+margin-bottom:50px;
+margin-left:25px;
+ word-spacing: 30px
+  
+}
+
